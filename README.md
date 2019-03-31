@@ -1,4 +1,4 @@
-# GFE
+# GAD
 
 a python script for extracting genome features from GTF/GFF3
 
