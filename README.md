@@ -1,6 +1,6 @@
 # GAD
 
-a python script for extracting genome features from GTF/GFF3
+a Python script for extracting genome features from GTF/GFF3
 
 # INSTALLATION
 
@@ -37,11 +37,11 @@ NOTE: in windows the python package contains tkinter module by default
 # RUN GEF
 ON LINUX:
 
-Open the terminal and type: python GFE_v0.1.py
+Open the terminal and type: python GAD_v0.1.py
 
 OR
 
-Open the terminal and type: python3 GFE_v0.1.py
+Open the terminal and type: python3 GAD_v0.1.py
 
 ON WINDOWS:
 
