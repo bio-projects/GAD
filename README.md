@@ -54,3 +54,7 @@ Oryza sativa.fasta
 NOTE: FASTA file input is optional
 
 Otherwise, the GUI is very simple to use
+
+# Support
+
+Send your problems at : ahmedkaramak.ak@gmail.com
