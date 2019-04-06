@@ -8,41 +8,31 @@ Download and install any version of python from the main website (https://www.py
 
 NOTE: make sure that your processor architecture (32-bit or 64-bit) in your device is compatible with python
 
-# RUN PYTHON 2 ON LINUX
+# Tkinter linux installation
 
-Open the terminal and type:
+For python version 2:
 
-python
+sudo apt-get install python-tk
 
-Test existence of tkinter module by typing in the interpreter after >>> sign: import Tkinter
+For pyhon version 3:
 
-if >>> appeared with a problem, open a new terminal and type: sudo apt-get install python-tk
+sudo apt-get install python3-tk
 
-# RUN PYTHON 3 ON LINUX
+# Tkinter windows installation
 
-Open the terminal and type:
+Found by default in python package
 
-python3
+# RUN GAD
+LINUX:
 
-Test existence of tkinter module by typing in the interpreter after >>> sign: import tkinter
+For python version 2, open the terminal and type:
 
-if >>> appeared with a problem open the terminal and type: sudo apt-get install python3-tk
+python GAD_v0.1.py
 
-# RUN PYTHON ON WINDOWS
+For pyhon version 3, open the terminal and type:
 
-Double click the python icon
+python3 GAD_v0.1.py
 
-NOTE: in windows the python package contains tkinter module by default
+WINDOWS:
 
-# RUN GEF
-ON LINUX:
-
-Open the terminal and type: python GAD_v0.1.py
-
-OR
-
-Open the terminal and type: python3 GAD_v0.1.py
-
-ON WINDOWS:
-
-Double click GFE_v0.1.py
+Double click GAD_v0.1.py
