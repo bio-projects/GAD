@@ -24,11 +24,13 @@ If Python version 2, open the terminal and write: python
 
 If Python version 3, open the terminal and write: python3
 
-Then after ">>>" mark write: execfile("GAD_v0.2.py")
+Then after ">>>" mark write: execfile("path/to/GAD_v0.2.py")
 
 For windows:
 
-Write IDLE in the search bar and open the IDLE, then after ">>>" mark write: execfile("GAD_v0.2.py")
+Write IDLE in the search bar and open the IDLE, then after ">>>" mark write: execfile("path/to/GAD_v0.2.py")
+
+NOTE: Replace "path/to/" with the current path of "GAD_v0.2.py" on your computer
 
 # Support
 
