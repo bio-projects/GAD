@@ -1,6 +1,6 @@
 # GAD
 
-a Python script for extracting genome features from GTF/GFF3
+A Python script for extracting genome features from GTF/GFF3
 
 # Requirements
 1. Python
