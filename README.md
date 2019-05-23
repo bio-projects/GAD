@@ -22,7 +22,7 @@ NOTE: In windows, the Tkinter module included by default in the python package
 # Run GAD
 1. For linux:
 
-  If Python version 2, open the terminal and write: python
+If Python version 2, open the terminal and write: python
 
 If Python version 3, open the terminal and write: python3
 
