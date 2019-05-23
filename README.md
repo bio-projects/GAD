@@ -11,9 +11,11 @@ NOTE: make sure that your processor architecture (32-bit or 64-bit) in your devi
 
 2. Tkinter
 
-For linux, if Python version 2, open the terminal and write: sudo apt-get install python-tk
+2.1. For linux:
 
-For linux, if Python version 3, open the terminal and write: sudo apt-get install python3-tk
+2.1.1. If Python version 2, open the terminal and write: sudo apt-get install python-tk
+
+2.1.2. If Python version 3, open the terminal and write: sudo apt-get install python3-tk
 
 NOTE: In windows, the Tkinter module included by default in the python package
 
