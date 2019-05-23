@@ -28,7 +28,7 @@ Then after ">>>" mark write: execfile("GAD_v0.2.py")
 
 For windows:
 
-Search and open the IDLE, then after ">>>" mark write: # execfile("GAD_v0.2.py")
+Write IDLE in the search bar and open the IDLE, then after ">>>" mark write: execfile("GAD_v0.2.py")
 
 # Support
 
