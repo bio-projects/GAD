@@ -37,3 +37,7 @@ NOTE: Replace "path/to/" with the current path of "GAD_v0.4.py" on your computer
 # Support
 
 Send your problems at : ahmedkaramak.ak@gmail.com
+
+# Cite Us
+
+Yasser, N., Karam, A. GAD: A Python Script for Dividing Genome Annotation Files into Feature-Based Files. Interdiscip Sci Comput Life Sci (2020). https://doi.org/10.1007/s12539-020-00378-4
